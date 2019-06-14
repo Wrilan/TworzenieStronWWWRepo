@@ -1,0 +1,25 @@
+table#game-board {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 0;
+  border: 1px solid black;
+}
+
+td, img {
+  width: 100px;
+  height: 100px;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.selected {
+  opacity: 0.75;
+}
+
+.visible {
+  opacity: 1;
+}

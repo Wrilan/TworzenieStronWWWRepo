@@ -1,0 +1,4 @@
+http://wrilan.y0.pl
+
+^ strona postawiona na jakimœ hostingu z cba.pl, jest tu coœ, jakieœ te rzeczy, które mia³y byæ na pocz¹tek, czyli sama stronka, formularz itp oraz ta gra w JS, któr¹ mieliœmy 'ulepszyæ'. Dodatkowo pliki z tej gry wrzucam na GitHuba osobno, powinny byæ gdzieœ tu w okolicach tego pliku.
+Pozdrawiam.
